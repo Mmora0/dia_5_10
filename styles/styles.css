@@ -4,6 +4,9 @@
 .color3 {color: #928b52;}
 .color4 {color: #b5cba4;}
 .color5 {color: #dae7de;}
+Fuentes:
+primary     font-family: 'Russo One', sans-serif;
+secondary   font-family: 'Archivo Narrow', sans-serif;
 */
 
 
@@ -15,12 +18,31 @@
 }
 .bienvenida {
     color: #944d6c;
+    font-family: 'Russo One', sans-serif;
 }
 .presentado {
     color: #94614f;
+    font-family: 'Russo One', sans-serif;
 }
 .parrafo {
     color: #928b52;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+li {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+.sesion {
+    color: #944d6c;
+}
+.tabla {
+    background-color: #b5cba4;
+    border-style: dotted;
+}
+.tabla:hover {
+    background-color: #95a08c;
+}
+.caja:hover {
+    background-color: #b4bbae;
 }
 .text-center {
     text-align: center;
