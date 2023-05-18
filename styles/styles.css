@@ -1,0 +1,29 @@
+/*Esta es la paleta de colores:
+.color1 {color: #944d6c;}
+.color2 {color: #94614f;}
+.color3 {color: #928b52;}
+.color4 {color: #b5cba4;}
+.color5 {color: #dae7de;}
+*/
+
+
+.body1 {
+    background-color: #dae7de;
+}
+.bg-color {
+    background-color: #b4c9ba;
+}
+.bienvenida {
+    color: #944d6c;
+}
+.presentado {
+    color: #94614f;
+}
+.parrafo {
+    color: #928b52;
+}
+.text-center {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
